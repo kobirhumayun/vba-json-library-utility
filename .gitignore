@@ -1,0 +1,5 @@
+# Excel's Backup copies
+~$*.xl*
+
+# Excel's File
+*.xl*
